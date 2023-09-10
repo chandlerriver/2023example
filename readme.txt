@@ -5,3 +5,5 @@ Sima Bai is also be used from time to time.
 I will use it when I require a rakeout.
 My boss is a professor
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
