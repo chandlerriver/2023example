@@ -1,2 +1,2 @@
-River Chandler is good at academic
-Rose Lan is good at socialize 
+River Chandler is good at academic works
+Rose Lan is good at socializing
